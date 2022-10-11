@@ -1,7 +1,25 @@
 footer {
   text-align: right;
+  color: hotpink;
+
 }
 
 ul1 {
+  float: left;
+  color: hotpink;
+  padding: 20px
+}
+ul2 {
+  float: middle;
+  color: hotpink;
+  padding: 20px;
   
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: hotpink
 }
