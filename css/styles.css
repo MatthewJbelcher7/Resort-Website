@@ -1,7 +1,8 @@
 footer {
-  text-align: right;
   color: hotpink;
-
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
 
 ul1 {
@@ -13,7 +14,17 @@ ul2 {
   float: middle;
   color: hotpink;
   padding: 20px;
-  
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+ul3 {
+  float; Left;
+  right: 0px;
+  color: hotpink;
+  padding: 20px;
 }
 
 body {
@@ -21,5 +32,24 @@ body {
 }
 
 h1 {
-  color: hotpink
+  color: hotpink;
+  padding: 20px
+}
+
+h2 {
+  float: middle;
+  color: hotpink;
+  padding: 20px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  float: right;
+  color: hotpink;
+  padding: 20px;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
 }
